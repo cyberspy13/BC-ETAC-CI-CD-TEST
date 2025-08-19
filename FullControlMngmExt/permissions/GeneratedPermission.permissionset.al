@@ -1,6 +1,6 @@
 namespace SetPermission;
 
-permissionset 1 GeneratedPermission
+permissionset 50200 GeneratedPermission
 {
     Assignable = true;
     Permissions = tabledata ETAC_CustVendControlMngmTable = RIMD,
