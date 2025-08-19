@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
-  "country": "uk",
-  "appFolders": ["FullControlMngmExt"],
-  "testFolders": ["FullControlMngmExt"],
-  "bcptTestFolders": ["FullControlMngmExt"]
+  "country": "us",
+  "appFolders": [],
+  "testFolders": [],
+  "bcptTestFolders": []
 }
